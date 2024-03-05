@@ -1,0 +1,10 @@
+ResolutionUnit : 2
+ExifOffset : 226
+Make : NIKON CORPORATION
+Model : NIKON D40
+Software : ACD Systems Digital Imaging
+Orientation : 1
+DateTime : 2009:12:30 15:10:09
+YCbCrPositioning : 1
+XResolution : 300.0
+YResolution : 300.0
